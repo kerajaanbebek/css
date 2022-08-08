@@ -345,13 +345,13 @@ footer {
 }
 
 footer a {
-  color: #333;
+  color: darkblue;
   font-family: Ubuntu, serif;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 footer a:hover {
-  color: #333;
+  color: darkblue;
 }
 ul.footer-nav {
   display: flex;
